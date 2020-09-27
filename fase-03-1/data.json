@@ -1,0 +1,13 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://google.com",
+      "name": "Roberto Doggos",
+      "birth": 635385600000,
+      "gender": "M",
+      "services": "Musculação, Yoga",
+      "created_at": 1601224890496
+    }
+  ]
+}
