@@ -1,4 +1,17 @@
 {
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Leandro Nunes",
+      "email": "nunes.dev@gmail.com",
+      "birth": 635385600000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "75",
+      "height": "180",
+      "id": 1
+    }
+  ],
   "instructors": [
     {
       "id": 2,
@@ -28,15 +41,6 @@
       "created_at": 1602726317624
     },
     {
-      "id": 5,
-      "avatar_url": "https://images.unsplash.com/photo-1551656927-4f07ba471344?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-      "name": "Jussara Silva",
-      "birth": 542160000000,
-      "gender": "F",
-      "services": "Yoga, Tai Chi Chuan",
-      "created_at": 1602726317982
-    },
-    {
       "id": 6,
       "avatar_url": "https://images.unsplash.com/photo-1512291313931-d4291048e7b6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
       "name": "Julia Gomes",
@@ -44,6 +48,24 @@
       "gender": "F",
       "services": "Yoga, Meditação",
       "created_at": 1602726345979
+    },
+    {
+      "id": 6,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Felipe Renan",
+      "birth": 638236800000,
+      "gender": "M",
+      "services": "Yoga",
+      "created_at": 1604774990710
+    },
+    {
+      "id": 7,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Marilene Nunes",
+      "birth": 651715200000,
+      "gender": "F",
+      "services": "Alongamento, Meditação",
+      "created_at": 1604775277500
     }
   ]
 }
